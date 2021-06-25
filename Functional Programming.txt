@@ -1,0 +1,18 @@
+Functional programming
+
+-Pure mathematical functions
+
+-Immutable data
+
+-No/Less side-effects
+
+-Declarative
+
+-Easier to verify
+
+Declarative
+
+-Describe what it is instead of what to do.
+
+Is lazy evaluated
+
